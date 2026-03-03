@@ -6,8 +6,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MEAN/MERN stack
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: Contribute more to Open Source projects
-- 💬 Ask me about Nodejs,nestjs,mongodb,Angular,Frontend 
+- 🥅 2026 Goals: Contribute more to Open Source projects
+- 💬 Ask me about Nodejs,Nestjs,React,Nextjs,Mongodb,Angular,Frontend,Backend,Full Stack,Python,LLM,Langchain,Langgraph 
 
 <h3>Things I code with</h3>
 <p>
